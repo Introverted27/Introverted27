@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Introverted27
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning NLP and Deep Learning
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning NLP and Deep Learning, Business Analytics
 - 💞️ I’m looking to collaborate on NLP related projects
 - 📫 How to reach me introverted27@hotmail.com
 
