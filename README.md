@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Introverted27
+- 👋 Hi, I’m Kavita ( @Introverted27 )
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning NLP and Deep Learning, Business Analytics
 - 💞️ I’m looking to collaborate on NLP related projects
